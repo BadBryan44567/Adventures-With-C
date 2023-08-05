@@ -16,7 +16,6 @@ int ans;
 
 int main(){
     printf("Enter The First Number");
-    scanf("%d", &num1);
 
     printf("Enter The Second Number");
     scanf("%d", &num2);
