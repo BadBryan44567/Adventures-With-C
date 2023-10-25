@@ -22,7 +22,7 @@ bool Niven(int n) {
 }
 
 bool isPronic(int n){
-    int digit,product,temp, count;
+    int digit, count, product, temp;
     temp = n;
     while(n > 0){
         digit = n % 10;

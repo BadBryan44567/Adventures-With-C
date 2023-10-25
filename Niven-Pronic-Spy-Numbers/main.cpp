@@ -10,5 +10,6 @@ int main() {
    if(Niven(number) || isPronic(number) || isSpy(number) ){
        cout << number << " Is a special number";
    }
+
     return 0;
 }

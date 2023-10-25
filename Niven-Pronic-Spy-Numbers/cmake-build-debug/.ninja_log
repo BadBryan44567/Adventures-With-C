@@ -1,8 +1,4 @@
 # ninja log v5
-3	275	7199441458011197	CMakeFiles/Niven_Pronic_Spy_Numbers.dir/main.cpp.obj	5d61bebb6e06e195
-275	344	7199441458678517	Niven_Pronic_Spy_Numbers.exe	e707e07701b4db4c
-4	107	7199451166110615	build.ninja	2419bcdb8e55bb93
-2	268	7199451169058648	CMakeFiles/Niven_Pronic_Spy_Numbers.dir/main.cpp.obj	5d61bebb6e06e195
-269	336	7199451169698276	Niven_Pronic_Spy_Numbers.exe	e707e07701b4db4c
 2	270	7199452274723256	CMakeFiles/Niven_Pronic_Spy_Numbers.dir/main.cpp.obj	5d61bebb6e06e195
 271	340	7199452275382374	Niven_Pronic_Spy_Numbers.exe	e707e07701b4db4c
+4	107	7199468359903107	build.ninja	2419bcdb8e55bb93
