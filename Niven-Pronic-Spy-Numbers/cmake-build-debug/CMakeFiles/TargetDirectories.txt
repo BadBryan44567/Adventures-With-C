@@ -1,0 +1,3 @@
+D:/Projects/Adventures-With-C/Niven-Pronic-Spy-Numbers/cmake-build-debug/CMakeFiles/Niven_Pronic_Spy_Numbers.dir
+D:/Projects/Adventures-With-C/Niven-Pronic-Spy-Numbers/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Projects/Adventures-With-C/Niven-Pronic-Spy-Numbers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
